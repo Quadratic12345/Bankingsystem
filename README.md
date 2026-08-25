@@ -1,1 +1,1 @@
-Banking system using go which deals with
+Banking system using go which deals with serializibility and concurrency
